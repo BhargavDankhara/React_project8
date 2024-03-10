@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Aarav Patel",
+		"email": "aarav.patel@example.com",
+		"gender": "Male",
+		"degree": "Computer Science",
+		"hobbies": ["Coding", "Reading", "Gaming"],
+		"address": { "street": "123 Gokul Nagar", "city": "Mumbai", "state": "MH", "zip": "400001" }
+	},
+	{
+		"name": "Aisha Khan",
+		"email": "aisha.khan@example.com",
+		"gender": "Female",
+		"degree": "Marketing",
+		"hobbies": ["Travelling", "Photography", "Cooking"],
+		"address": { "street": "456 Surya Colony", "city": "Delhi", "state": "DL", "zip": "110001" }
+	},
+	{
+		"name": "Vijay Gupta",
+		"email": "vijay.gupta@example.com",
+		"gender": "Male",
+		"degree": "Environmental Science",
+		"hobbies": ["Hiking", "Painting", "Yoga"],
+		"address": { "street": "789 Krishna Nagar", "city": "Bangalore", "state": "KA", "zip": "560001" }
+	},
+	{
+		"name": "Sanjana Reddy",
+		"email": "sanjana.reddy@example.com",
+		"gender": "Female",
+		"degree": "Psychology",
+		"hobbies": ["Dancing", "Singing", "Reading"],
+		"address": { "street": "101 Tulsi Vihar", "city": "Hyderabad", "state": "TS", "zip": "500001" }
+	},
+	{
+		"name": "Rahul Kumar",
+		"email": "rahul.kumar@example.com",
+		"gender": "Male",
+		"degree": "Business Administration",
+		"hobbies": ["Golf", "Travelling", "Watching Movies"],
+		"address": { "street": "222 Lakshmi Enclave", "city": "Chennai", "state": "TN", "zip": "600001" }
+	},
+	{
+		"name": "Ananya Singh",
+		"email": "ananya.singh@example.com",
+		"gender": "Female",
+		"degree": "Physics",
+		"hobbies": ["Swimming", "Chess", "Coding"],
+		"address": { "street": "333 Ganga Vihar", "city": "Kolkata", "state": "WB", "zip": "700001" }
+	},
+	{
+		"name": "Arjun Desai",
+		"email": "arjun.desai@example.com",
+		"gender": "Male",
+		"degree": "Electrical Engineering",
+		"hobbies": ["Basketball", "Gaming", "Reading"],
+		"address": { "street": "444 Shanti Nagar", "city": "Pune", "state": "MH", "zip": "411001" }
+	},
+	{
+		"name": "Divya Sharma",
+		"email": "divya.sharma@example.com",
+		"gender": "Female",
+		"degree": "Chemistry",
+		"hobbies": ["Cooking", "Painting", "Cycling"],
+		"address": { "street": "555 Saraswati Lane", "city": "Ahmedabad", "state": "GJ", "zip": "380001" }
+	},
+	{
+		"name": "Raj Patel",
+		"email": "raj.patel@example.com",
+		"gender": "Male",
+		"degree": "Civil Engineering",
+		"hobbies": ["Hiking", "Photography", "Playing Guitar"],
+		"address": { "street": "666 Ram Nagar", "city": "Jaipur", "state": "RJ", "zip": "302001" }
+	},
+	{
+		"name": "Kavya Gupta",
+		"email": "kavya.gupta@example.com",
+		"gender": "Female",
+		"degree": "History",
+		"hobbies": ["Travelling", "Writing", "Museums"],
+		"address": { "street": "777 Vishal Nagar", "city": "Lucknow", "state": "UP", "zip": "226001" }
+	}
+]
